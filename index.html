@@ -7,6 +7,7 @@
     <title>La-Flix</title>
     <!--<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">-->
     <link rel="stylesheet" href="/style/main.css">
+    <link rel="stylesheet" href="style/series.css">
     <!--Responsividade-->
     <link rel="stylesheet" href="/style/responsive.css">
     <!--OWcss-->
@@ -17,21 +18,24 @@
     <header>
         <div class="container">
             <h2 class="logo">La-flix</h2>
-            <nav>
-                <a href="#">Inicio</a>
-                <a href="#">Animes</a>
+            <nav class="links">
+                <a href="/index.html">Inicio</a>
+                <a href="/Pages/animes.html">Animes</a>
                 <a href="#">Series</a>
                 <a href="#">Filmes</a>
             </nav>
-        </div>
+            <div class="itens-lado">
+                <i class="fas fa-search"></i>
+            </div>
+         </div>  
+        
     </header>
 
         <main>
-            <div class="filme-principal">
+            <div class="serie-principal">
                 <div class="container">
                     <h3 class="titulo">Mr.Robot</h3>
                     <p class="sinopse"> Elliot é um jovem programador que sofre de uma desordem que o torna anti-social. Acreditando que a única forma de se conectar com as pessoas é hackeando suas vidas, ele alia seu conhecimento ao fato de trabalhar em uma empresa de segurança online para proteger aqueles que ele ama daqueles que tentam, de alguma forma, prejudicá-los. Suas atividades chamam a atenção de Mr. Robot, um misterioso anarquista que convida Elliot a fazer parte de uma organização que atua na ilegalidade com o objetivo de derrubar as corporações americanas.</p>
-                    
                     <div class="botoes">
                         <button role="button" class="botao">
                             <i class="fas fa-play"></i>
@@ -46,29 +50,158 @@
             </div>
         </main>
 
-        <div class="carrosel-filmes">
-            <div class="owl-carousel owl-theme">
-                <div class="item">
-                    <img class="box-filmes" src="img/series/game.of.thrones.jpg" >
-                </div>
-                <div class="item">
-                    <img class="box-filmes" src="img/series/invencivel.jpg" >
-                </div>
-                <div class="item">
-                    <img class="box-filmes" src="img/series/loki.jpg" >
-                </div>
-                <div class="item">
-                    <img class="box-filmes" src="img/series/the.flash.jpg" >
-                </div>
-                <div class="item">
-                    <img class="box-filmes" src="img/series/twd.jpg" >
+        <div class="recomendacoes">
+            <div class="top10">
+                    <h3 class="titulo">Top 10 Series no Brasil</h3>
+                <div class="carrosel-filmes">
+                    <div class="owl-carousel owl-theme">
+                        <div class="item">
+                            <a href="/Pages/series/game.html"><img class="box-filmes" src="/img/series/game.of.thrones.jpg" ></a>
+                        </div>
+                        <div class="item">
+                            <a href="/Pages/series/invencivel.html"><img class="box-filmes" src="/img/series/invencivel.jpg" ></a>
+                        </div>
+                        <div class="item">
+                            <a href="/Pages/series/loki.html"><img class="box-filmes" src="/img/series/loki.jpg"></a>
+                        </div>
+                        <div class="item">
+                            <a href="/Pages/series/flash.html"><img class="box-filmes" src="/img/series/the.flash.jpg" ></a>
+                        </div>
+                        <div class="item">
+                            <a href="/Pages/series/twd.html"><img class="box-filmes" src="/img/series/twd.jpg" ></a>
+                        </div>
+                        <div class="item">
+                            <a href="/Pages/series/wanda.html"><img class="box-filmes" src="/img/series/wanda.vision.jpg" ></a>
+                        </div>
+                        <div class="item">
+                            <a href="/index.html"><img class="box-filmes" src="/img/series/mr robot.jpg" ></a>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>
+            
+            <div class="topanimes">
+                <h3 class="titulo">Top 10 animes no brasil</h3>
+            <div class="carrosel-filmes">
+                <div class="owl-carousel owl-theme">
+                    <div class="item">
+                        <a href="/Pages/animes/akame.html"><img class="box-filmes" src="/img/animes/akame.jpg" ></a>
+                    </div>
+                    <div class="item">
+                        <a href="/Pages/animes/ansatsu.html"><img class="box-filmes" src="/img/animes/ansatsu.jpg" ></a>
+                    </div>
+                    <div class="item">
+                        <a href="/Pages/animes/steins.html"><img class="box-filmes" src="/img/animes/steins.jpg"></a>
+                    </div>
+                    <div class="item">
+                        <a href="/Pages/animes/golden.html"><img class="box-filmes" src="/img/animes/golden.jpg" ></a>
+                    </div>
+                    <div class="item">
+                        <a href="/Pages/animes/jujutsu.html"><img class="box-filmes" src="/img/animes/jujutsu.jpg" ></a>
+                    </div>
+                    <div class="item">
+                        <a href="/Pages/animes/steins0.html"><img class="box-filmes" src="/img/animes/steins0.jpg" ></a>
+                    </div>
+                    <div class="item">
+                        <a href="/Pages/animes/kanata.html"><img class="box-filmes" src="/img/animes/kanata.jpg" ></a>
+                    </div>
+                </div>
+            </div>
+            </div>
 
+            <div class="topfilmes">
+                <h3 class="titulo">Top 10 filmes no brasil</h3>
+            <div class="carrosel-filmes">
+                <div class="owl-carousel owl-theme">
+                    <div class="item">
+                        <a href="/Pages/filmes/interestelar.html"><img class="box-filmes" src="/img/filmes/interestelar.jpg" ></a>
+                    </div>
+                    <div class="item">
+                        <a href="/Pages/filmes/tropa.html"><img class="box-filmes" src="/img/filmes/tropa.jpg" ></a>
+                    </div>
+                    <div class="item">
+                        <a href="/Pages/filmes/pi.html"><img class="box-filmes" src="/img/filmes/pi.jpg"></a>
+                    </div>
+                    <div class="item">
+                        <a href="/Pages/filmes/sempre.html"><img class="box-filmes" src="/img/filmes/sempre.jpg" ></a>
+                    </div>
+                    <div class="item">
+                        <a href="/Pages/filmes/click.html"><img class="box-filmes" src="/img/filmes/click.jpg" ></a>
+                    </div>
+                    <div class="item">
+                        <a href="/Pages/filmes/joker.html"><img class="box-filmes" src="/img/filmes/joker.jpg" ></a>
+                    </div>
+                    <div class="item">
+                        <a href="/Pages/filmes/lenda.html"><img class="box-filmes" src="/img/filmes/lenda.jpg" ></a>
+                    </div>
+                </div>
+            </div>
+            </div>
+
+            <div class="recomendados">
+                <h3 class="titulo">Recomendados para você</h3>
+            <div class="carrosel-filmes">
+                <div class="owl-carousel owl-theme">
+                    <div class="item">
+                        <a href="/Pages/series/game.html"><img class="box-filmes" src="/img/series/game.of.thrones.jpg" ></a>
+                    </div>
+                    <div class="item">
+                        <a href="/Pages/series/invencivel.html"><img class="box-filmes" src="/img/series/invencivel.jpg" ></a>
+                    </div>
+                    <div class="item">
+                        <a href="/Pages/series/loki.html"><img class="box-filmes" src="/img/series/loki.jpg"></a>
+                    </div>
+                    <div class="item">
+                        <a href="/Pages/series/flash.html"><img class="box-filmes" src="/img/series/the.flash.jpg" ></a>
+                    </div>
+                    <div class="item">
+                        <a href="/Pages/series/twd.html"><img class="box-filmes" src="/img/series/twd.jpg" ></a>
+                    </div>
+                    <div class="item">
+                        <a href="/Pages/series/wanda.html"><img class="box-filmes" src="/img/series/wanda.vision.jpg" ></a>
+                    </div>
+                    <div class="item">
+                        <a href="/index.html"><img class="box-filmes" src="/img/series/mr robot.jpg" ></a>
+                    </div>
+                </div>
+            </div>
+            </div>
+
+            <div class="lançamentos">
+                <h3 class="titulo">Lançamentos no site</h3>
+            <div class="carrosel-filmes">
+                <div class="owl-carousel owl-theme">
+                    <div class="item">
+                        <a href="/Pages/series/game.html"><img class="box-filmes" src="/img/series/game.of.thrones.jpg" ></a>
+                    </div>
+                    <div class="item">
+                        <a href="/Pages/series/invencivel.html"><img class="box-filmes" src="/img/series/invencivel.jpg" ></a>
+                    </div>
+                    <div class="item">
+                        <a href="/Pages/series/loki.html"><img class="box-filmes" src="/img/series/loki.jpg"></a>
+                    </div>
+                    <div class="item">
+                        <a href="/Pages/series/flash.html"><img class="box-filmes" src="/img/series/the.flash.jpg" ></a>
+                    </div>
+                    <div class="item">
+                        <a href="/Pages/series/twd.html"><img class="box-filmes" src="/img/series/twd.jpg" ></a>
+                    </div>
+                    <div class="item">
+                        <a href="/Pages/series/wanda.html"><img class="box-filmes" src="/img/series/wanda.vision.jpg" ></a>
+                    </div>
+                    <div class="item">
+                        <a href="/index.html"><img class="box-filmes" src="/img/series/mr robot.jpg" ></a>
+                    </div>
+                </div>
+            </div>
+            </div>
+        
+        </div>
+        
+        
         <script src="https://kit.fontawesome.com/d48a2407eb.js" crossorigin="anonymous"></script>
-        <script src="js/owl/jquery.min.js"></script>
-        <script src="js/owl/owl.carousel.min.js"></script>
-        <script src="js/owl/setup.js"></script>
+        <script src="/js/owl/jquery.min.js"></script>
+        <script src="/js/owl/owl.carousel.min.js"></script>
+        <script src="/js/setup.js"></script>
     </body>
 </html>

@@ -1,0 +1,423 @@
+
+
+/*--------------------------------------------*/
+
+    /*akame ga kill*/
+
+   .akame{
+    font-size: 18px;
+    background-image:linear-gradient(rgba(0,0,0,.75), rgba(0,0,0,.80)100%), url('/img/animes/akame-banner.jpg');
+    height: 400px;
+
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+
+.akame .sinopse{
+     margin-top: 10px;
+     margin-bottom: 90px;
+}
+
+.akame .titulo{
+    margin-top: 5%;
+    font-family:'Trebuchet MS', Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+.akame .botao{
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    color: white;
+ 
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+
+    cursor: pointer;
+    transition: .5s ease all;
+}
+
+.botao:hover{
+    background-color: white;
+    color: black;
+}
+
+.serie .botao i{
+    margin-right: 8px;
+}
+
+.container{
+    margin-left: 10px;
+}
+
+.akame .container{
+    width: 80%;
+}
+
+
+
+/*--------------------------------------------*/
+/* ------------Assasination classroom ------------*/
+
+
+
+.ansatsu{
+    font-size: 18px;
+    background-image:linear-gradient(rgba(0,0,0,.75), rgba(0,0,0,.80)100%), url('/img/animes/ansatsu-banner.jpg');
+    height: 400px;
+
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+
+.ansatsu .sinopse{
+     margin-top: 10px;
+     margin-bottom: 90px;
+}
+
+.ansatsu .titulo{
+    margin-top: 5%;
+    font-family:'Trebuchet MS', Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+.ansatsu .botao{
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    color: white;
+ 
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+
+    cursor: pointer;
+    transition: .5s ease all;
+}
+
+.botao:hover{
+    background-color: white;
+    color: black;
+}
+
+.ansatsu .botao i{
+    margin-right: 8px;
+}
+
+.container{
+    margin-left: 10px;
+}
+
+.ansatsu .container{
+    width: 80%;
+}
+
+/*--------------------------------------------*/
+/* -----------Steins gate ----------*/
+
+
+
+.steins{
+    font-size: 18px;
+    background-image:linear-gradient(rgba(0,0,0,.75), rgba(0,0,0,.80)100%), url('/img/animes/steins-banner.jpg');
+    height: 400px;
+
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+
+.steins .sinopse{
+     margin-top: 10px;
+     margin-bottom: 90px;
+}
+
+.steins .titulo{
+    margin-top: 5%;
+    font-family:'Trebuchet MS', Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+.steins .botao{
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    color: white;
+ 
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+
+    cursor: pointer;
+    transition: .5s ease all;
+}
+
+.botao:hover{
+    background-color: white;
+    color: black;
+}
+
+.steins .botao i{
+    margin-right: 8px;
+}
+
+.container{
+    margin-left: 10px;
+}
+
+.steins .container{
+    width: 80%;
+}
+
+
+
+
+/*--------------------------------------------*/
+/* -------------Golden time ------------*/
+
+
+.golden{
+    font-size: 18px;
+    background-image:linear-gradient(rgba(0,0,0,.75), rgba(0,0,0,.80)100%), url('/img/animes/golden-banner.jpg');
+    height: 400px;
+
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+
+.golden .sinopse{
+     margin-top: 10px;
+     margin-bottom: 90px;
+}
+
+.golden .titulo{
+    margin-top: 5%;
+    font-family:'Trebuchet MS', Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+.golden .botao{
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    color: white;
+ 
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+
+    cursor: pointer;
+    transition: .5s ease all;
+}
+
+.botao:hover{
+    background-color: white;
+    color: black;
+}
+
+.golden .botao i{
+    margin-right: 8px;
+}
+
+.container{
+    margin-left: 10px;
+}
+
+.golden .container{
+    width: 80%;
+}
+
+
+
+/*--------------------------------------------*/
+/* ---------------Jujutsu kaisen ------------*/
+
+
+
+.jujutsu{
+    font-size: 18px;
+    background-image:linear-gradient(rgba(0,0,0,.75), rgba(0,0,0,.80)100%), url('/img/animes/jujutsu-banner.jpg');
+    height: 400px;
+
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+
+.jujutsu .sinopse{
+     margin-top: 10px;
+     margin-bottom: 90px;
+}
+
+.jujutsu .titulo{
+    margin-top: 5%;
+    font-family:'Trebuchet MS', Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+.jujutsu .botao{
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    color: white;
+ 
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+
+    cursor: pointer;
+    transition: .5s ease all;
+}
+
+.botao:hover{
+    background-color: white;
+    color: black;
+}
+
+.jujutsu .botao i{
+    margin-right: 8px;
+}
+
+.container{
+    margin-left: 10px;
+}
+
+.jujutsu .container{
+    width: 80%;
+}
+
+
+
+/*--------------------------------------------*/
+/* ------------Steins gate 0 -----------*/
+
+
+
+.steins0{
+    font-size: 18px;
+    background-image:linear-gradient(rgba(0,0,0,.75), rgba(0,0,0,.80)100%), url('/img/animes/steins0-banner.jpg');
+    height: 400px;
+
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+
+.steins0 .sinopse{
+     margin-top: 10px;
+     margin-bottom: 90px;
+}
+
+.steins0 .titulo{
+    margin-top: 5%;
+    font-family:'Trebuchet MS', Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+.steins0 .botao{
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    color: white;
+ 
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+
+    cursor: pointer;
+    transition: .5s ease all;
+}
+
+.botao:hover{
+    background-color: white;
+    color: black;
+}
+
+.steins0 .botao i{
+    margin-right: 8px;
+}
+
+.container{
+    margin-left: 10px;
+}
+
+.steins0 .container{
+    width: 80%;
+}
+
+
+
+
+/*--------------------------------------------*/
+/* ------------Kanata no astra -----------*/
+
+
+.kanata{
+    font-size: 18px;
+    background-image:linear-gradient(rgba(0,0,0,.75), rgba(0,0,0,.80)100%), url('/img/animes/kanata-banner.jpg');
+    height: 400px;
+
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+
+.kanata .sinopse{
+     margin-top: 10px;
+     margin-bottom: 90px;
+}
+
+.kanata .titulo{
+    margin-top: 5%;
+    font-family:'Trebuchet MS', Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+.kanata .botao{
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    color: white;
+ 
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+
+    cursor: pointer;
+    transition: .5s ease all;
+}
+
+.botao:hover{
+    background-color: white;
+    color: black;
+}
+
+.kanata .botao i{
+    margin-right: 8px;
+}
+
+.container{
+    margin-left: 10px;
+}
+
+.kanata .container{
+    width: 80%;
+}

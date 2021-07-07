@@ -2,7 +2,7 @@
 $('.owl-carousel').owlCarousel({
     loop:true,
     margin:10,
-    nav:true,
+    nav:false,
     responsive:{
         0:{
             items:1
@@ -15,3 +15,8 @@ $('.owl-carousel').owlCarousel({
         }
     }
 })
+
+
+Object .onomouseover=function(){
+    
+}

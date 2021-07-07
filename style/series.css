@@ -1,0 +1,424 @@
+
+
+/*--------------------------------------------*/
+
+   /*serie principal mr robot*/
+
+   .serie-principal{
+    font-size: 18px;
+    background-image:linear-gradient(rgba(0,0,0,.75), rgba(0,0,0,.80)100%), url('/img/series/mr.robot-banner.jpg');
+    height: 400px;
+
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+
+.serie-principal .sinopse{
+     margin-top: 10px;
+     margin-bottom: 90px;
+}
+
+.serie-principal .titulo{
+    margin-top: 5%;
+    font-family:'Trebuchet MS', Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+.serie-principal .botao{
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    color: white;
+ 
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+
+    cursor: pointer;
+    transition: .5s ease all;
+}
+
+.botao:hover{
+    background-color: white;
+    color: black;
+}
+
+.serie .botao i{
+    margin-right: 8px;
+}
+
+.container{
+    margin-left: 10px;
+}
+
+.serie-principal .container{
+    width: 80%;
+}
+
+
+
+/*--------------------------------------------*/
+/* ------------FLASH ------------*/
+
+
+
+.flash{
+    font-size: 18px;
+    background-image:linear-gradient(rgba(0,0,0,.75), rgba(0,0,0,.80)100%), url('/img/series/the.flash-banner.jpg');
+    height: 400px;
+
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+
+.flash .sinopse{
+     margin-top: 10px;
+     margin-bottom: 90px;
+}
+
+.flash .titulo{
+    margin-top: 5%;
+    font-family:'Trebuchet MS', Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+.flash .botao{
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    color: white;
+ 
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+
+    cursor: pointer;
+    transition: .5s ease all;
+}
+
+.botao:hover{
+    background-color: white;
+    color: black;
+}
+
+.flash .botao i{
+    margin-right: 8px;
+}
+
+.container{
+    margin-left: 10px;
+}
+
+.flash .container{
+    width: 80%;
+}
+
+/*--------------------------------------------*/
+/* -----------GAME OF THRONES ----------*/
+
+
+
+.gameofthrones{
+    font-size: 18px;
+    background-image:linear-gradient(rgba(0,0,0,.75), rgba(0,0,0,.80)100%), url('/img/series/game.of.thrones-banner.jpg');
+    height: 400px;
+
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+
+.gameofthrones .sinopse{
+     margin-top: 10px;
+     margin-bottom: 90px;
+}
+
+.gameofthrones .titulo{
+    margin-top: 5%;
+    font-family:'Trebuchet MS', Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+.gameofthrones .botao{
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    color: white;
+ 
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+
+    cursor: pointer;
+    transition: .5s ease all;
+}
+
+.botao:hover{
+    background-color: white;
+    color: black;
+}
+
+.gameofthrones .botao i{
+    margin-right: 8px;
+}
+
+.container{
+    margin-left: 10px;
+}
+
+.gameofthrones .container{
+    width: 80%;
+}
+
+
+
+
+/*--------------------------------------------*/
+/* -------------invencivel ------------*/
+
+
+
+.invencivel{
+    font-size: 18px;
+    background-image:linear-gradient(rgba(0,0,0,.75), rgba(0,0,0,.80)100%), url('/img/series/invencivel-banner.jpg');
+    height: 400px;
+
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+
+.invencivel .sinopse{
+     margin-top: 10px;
+     margin-bottom: 90px;
+}
+
+.invencivel .titulo{
+    margin-top: 5%;
+    font-family:'Trebuchet MS', Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+.invencivel .botao{
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    color: white;
+ 
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+
+    cursor: pointer;
+    transition: .5s ease all;
+}
+
+.botao:hover{
+    background-color: white;
+    color: black;
+}
+
+.invencivel .botao i{
+    margin-right: 8px;
+}
+
+.container{
+    margin-left: 10px;
+}
+
+.invencivel .container{
+    width: 80%;
+}
+
+
+/*--------------------------------------------*/
+/* ---------------LOKI ------------*/
+
+
+
+.loki{
+    font-size: 18px;
+    background-image:linear-gradient(rgba(0,0,0,.75), rgba(0,0,0,.80)100%), url('/img/series/loki-banner.jpg');
+    height: 400px;
+
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+
+.loki .sinopse{
+     margin-top: 10px;
+     margin-bottom: 90px;
+}
+
+.loki .titulo{
+    margin-top: 5%;
+    font-family:'Trebuchet MS', Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+.loki .botao{
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    color: white;
+ 
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+
+    cursor: pointer;
+    transition: .5s ease all;
+}
+
+.botao:hover{
+    background-color: white;
+    color: black;
+}
+
+.loki .botao i{
+    margin-right: 8px;
+}
+
+.container{
+    margin-left: 10px;
+}
+
+.loki .container{
+    width: 80%;
+}
+
+
+
+/*--------------------------------------------*/
+/* ------------the walking dead -----------*/
+
+
+
+.twd{
+    font-size: 18px;
+    background-image:linear-gradient(rgba(0,0,0,.75), rgba(0,0,0,.80)100%), url('/img/series/twd-banner.jpg');
+    height: 400px;
+
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+
+.twd .sinopse{
+     margin-top: 10px;
+     margin-bottom: 90px;
+}
+
+.twd .titulo{
+    margin-top: 5%;
+    font-family:'Trebuchet MS', Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+.twd .botao{
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    color: white;
+ 
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+
+    cursor: pointer;
+    transition: .5s ease all;
+}
+
+.botao:hover{
+    background-color: white;
+    color: black;
+}
+
+.twd .botao i{
+    margin-right: 8px;
+}
+
+.container{
+    margin-left: 10px;
+}
+
+.twd .container{
+    width: 80%;
+}
+
+
+
+
+/*--------------------------------------------*/
+/* ------------WANDA VISION -----------*/
+
+
+
+.wanda{
+    font-size: 18px;
+    background-image:linear-gradient(rgba(0,0,0,.75), rgba(0,0,0,.80)100%), url('/img/series/wanda..vision-banner.jpg');
+    height: 400px;
+
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+
+.wanda .sinopse{
+     margin-top: 10px;
+     margin-bottom: 90px;
+}
+
+.wanda .titulo{
+    margin-top: 5%;
+    font-family:'Trebuchet MS', Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+.wanda .botao{
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    color: white;
+ 
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+
+    cursor: pointer;
+    transition: .5s ease all;
+}
+
+.botao:hover{
+    background-color: white;
+    color: black;
+}
+
+.wanda .botao i{
+    margin-right: 8px;
+}
+
+.container{
+    margin-left: 10px;
+}
+
+.wanda .container{
+    width: 80%;
+}
