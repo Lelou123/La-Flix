@@ -1,0 +1,32 @@
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.box-wrapper{
+    border: 5px solid black; 
+    padding: 20px;
+    margin: 25px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.box-wrapper .container{
+    width: 80%;
+}
+
+.titulo{
+    font-size: 30px;
+    margin-top: 30px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
