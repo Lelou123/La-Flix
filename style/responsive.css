@@ -16,21 +16,43 @@
 }
 
 
-@media screen and (max-width: 500px) {
-    .header .container{
+@media screen and (max-width: 400px) {
+    header .container{
         display: flex;
         flex-direction: column;
     }
 
-    .container .botao{
-        margin-top: 5px;
-        width: 50%;
-        height: 50%;
-        padding: 0;
-        margin: 0;
+    header .logo{
+        font-size: 20px;
     }
 
-    .container{
-        width: 80%;
+    header .links{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+     .titulo{
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 10px;
+    }
+
+    .sinopse{
+        font-size: 15px
+    }
+
+    .botoes{
+        width: 20px;
+        height: 5px;
+        font-size: 12px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    header .itens-lado{
+        margin-bottom: 10px
     }
 }
