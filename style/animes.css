@@ -58,7 +58,10 @@
     width: 80%;
 }
 
-
+ .botao a{
+    text-decoration: none;
+    color: white;
+}
 
 /*--------------------------------------------*/
 /* ------------Assasination classroom ------------*/
