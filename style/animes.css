@@ -19,7 +19,7 @@
 
 .akame .sinopse{
      margin-top: 10px;
-     margin-bottom: 90px;
+     margin-bottom: 30px;
 }
 
 .akame .titulo{
@@ -39,6 +39,7 @@
 
     cursor: pointer;
     transition: .5s ease all;
+
 }
 
 .botao:hover{
@@ -83,7 +84,7 @@
 
 .ansatsu .sinopse{
      margin-top: 10px;
-     margin-bottom: 90px;
+     margin-bottom: 30px;
 }
 
 .ansatsu .titulo{
@@ -103,6 +104,7 @@
 
     cursor: pointer;
     transition: .5s ease all;
+
 }
 
 .botao:hover{
@@ -142,7 +144,7 @@
 
 .steins .sinopse{
      margin-top: 10px;
-     margin-bottom: 90px;
+     margin-bottom: 30px;
 }
 
 .steins .titulo{
@@ -162,6 +164,7 @@
 
     cursor: pointer;
     transition: .5s ease all;
+
 }
 
 .botao:hover{
@@ -203,7 +206,7 @@
 
 .golden .sinopse{
      margin-top: 10px;
-     margin-bottom: 90px;
+     margin-bottom: 30px;
 }
 
 .golden .titulo{
@@ -223,6 +226,7 @@
 
     cursor: pointer;
     transition: .5s ease all;
+
 }
 
 .botao:hover{
@@ -264,7 +268,7 @@
 
 .jujutsu .sinopse{
      margin-top: 10px;
-     margin-bottom: 90px;
+     margin-bottom: 30px;
 }
 
 .jujutsu .titulo{
@@ -284,6 +288,7 @@
 
     cursor: pointer;
     transition: .5s ease all;
+
 }
 
 .botao:hover{
@@ -325,7 +330,7 @@
 
 .steins0 .sinopse{
      margin-top: 10px;
-     margin-bottom: 90px;
+     margin-bottom: 30px;
 }
 
 .steins0 .titulo{
@@ -345,6 +350,7 @@
 
     cursor: pointer;
     transition: .5s ease all;
+
 }
 
 .botao:hover{
@@ -386,7 +392,7 @@
 
 .kanata .sinopse{
      margin-top: 10px;
-     margin-bottom: 90px;
+     margin-bottom: 30px;
 }
 
 .kanata .titulo{
@@ -406,6 +412,7 @@
 
     cursor: pointer;
     transition: .5s ease all;
+
 }
 
 .botao:hover{

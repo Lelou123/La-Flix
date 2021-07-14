@@ -19,7 +19,7 @@
 
 .serie-principal .sinopse{
      margin-top: 10px;
-     margin-bottom: 90px;
+     margin-bottom: 30px; /*------------------*/
 }
 
 .serie-principal .titulo{
@@ -80,7 +80,7 @@
 
 .flash .sinopse{
      margin-top: 10px;
-     margin-bottom: 90px;
+     margin-bottom: 30px;
 }
 
 .flash .titulo{
@@ -100,6 +100,8 @@
 
     cursor: pointer;
     transition: .5s ease all;
+
+
 }
 
 .botao:hover{
@@ -139,7 +141,7 @@
 
 .gameofthrones .sinopse{
      margin-top: 10px;
-     margin-bottom: 90px;
+     margin-bottom: 30px;
 }
 
 .gameofthrones .titulo{
@@ -159,6 +161,7 @@
 
     cursor: pointer;
     transition: .5s ease all;
+
 }
 
 .botao:hover{
@@ -204,7 +207,7 @@
 
 .invencivel .sinopse{
      margin-top: 10px;
-     margin-bottom: 90px;
+     margin-bottom: 30px;
 }
 
 .invencivel .titulo{
@@ -224,6 +227,7 @@
 
     cursor: pointer;
     transition: .5s ease all;
+    
 }
 
 .botao:hover{
@@ -264,7 +268,7 @@
 
 .loki .sinopse{
      margin-top: 10px;
-     margin-bottom: 90px;
+     margin-bottom: 30px;
 }
 
 .loki .titulo{
@@ -284,6 +288,7 @@
 
     cursor: pointer;
     transition: .5s ease all;
+
 }
 
 .botao:hover{
@@ -325,7 +330,7 @@
 
 .twd .sinopse{
      margin-top: 10px;
-     margin-bottom: 90px;
+     margin-bottom: 30px;
 }
 
 .twd .titulo{
@@ -345,6 +350,7 @@
 
     cursor: pointer;
     transition: .5s ease all;
+
 }
 
 .botao:hover{
@@ -379,15 +385,12 @@
 
     background-size: cover;
 
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: start;
+
 }
 
 .wanda .sinopse{
      margin-top: 10px;
-     margin-bottom: 90px;
+     margin-bottom: 30px;
 }
 
 .wanda .titulo{
@@ -407,6 +410,7 @@
 
     cursor: pointer;
     transition: .5s ease all;
+
 }
 
 .botao:hover{

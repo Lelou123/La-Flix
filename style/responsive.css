@@ -1,5 +1,5 @@
 @media screen and (max-width: 700px) {
-    .header .container{
+    header .container{
         display: flex;
         flex-direction: column;
     }
@@ -16,20 +16,20 @@
 }
 
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 600px) {
     header .container{
         display: flex;
         flex-direction: column;
     }
 
     header .logo{
-        font-size: 20px;
+        font-size: 30px;
+        margin-left: 20px;
     }
 
-    header .links{
-        display: flex;
-        justify-content: center;
-        align-items: center;
+    header .navbar{
+        display: block;
+        margin-left: 80px;
     }
 
      .titulo{
@@ -43,16 +43,23 @@
         font-size: 15px
     }
 
-    .botoes{
-        width: 20px;
-        height: 5px;
+    .botao{
+        width: 100%;
         font-size: 12px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
+              
     }
 
+    .wallpaper{
+        height: 500px;
+    }
+
+
     header .itens-lado{
-        margin-bottom: 10px
+        margin-bottom: 10px;
+        margin-left: 50px;
+    }
+
+    main .titulo{
+        font-size: 30px;
     }
 }
