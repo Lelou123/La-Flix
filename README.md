@@ -19,7 +19,7 @@ da Netflix.
 - Jquery
 
 
-### Preview Desktop
+### Desktop Preview
 
 ![DESKFLIX](https://user-images.githubusercontent.com/55301440/125555707-2fcba7e0-725d-4617-bf41-3eb6cbfdf00c.gif)
 
