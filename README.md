@@ -19,41 +19,13 @@ da Netflix.
 - Jquery
 
 
+### Desktop Preview
+
+![DESKFLIX](https://user-images.githubusercontent.com/55301440/125555707-2fcba7e0-725d-4617-bf41-3eb6cbfdf00c.gif)
+
+### Mobile Preview
+
+![mobile](https://user-images.githubusercontent.com/55301440/125556337-d2acc5b0-6932-4238-a9c7-42b1367bd88b.gif)
 
   
-
-
-
-![incio](https://user-images.githubusercontent.com/55301440/124983102-f2584580-e00d-11eb-850a-c246b1e8c0e1.png)
-
-
-
-
-
-![catalogo](https://user-images.githubusercontent.com/55301440/124983137-fd12da80-e00d-11eb-9be6-0e1082f1851b.png)
-
-
-
-
-
-
-
-![catalogo animes](https://user-images.githubusercontent.com/55301440/124983173-069c4280-e00e-11eb-8179-ec3e37443e37.png)
-
-
-
-
-
-![catalogo filmes](https://user-images.githubusercontent.com/55301440/124983185-0a2fc980-e00e-11eb-8410-f3207a07cb1f.png)
-
-
-
-
-
-![catalogo series](https://user-images.githubusercontent.com/55301440/124983213-0ef47d80-e00e-11eb-9d48-7073578e7c20.png)
-
-  
-
-
-  ​					**Em breve será atualizado a responsividade para smartphones. No momento responde a monitores, ipads e tablets.**
 
